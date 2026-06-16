@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a2431;
+  --foreground: #e2e8f0;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, -apple-system, Segoe UI,
+    Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+.bg-dynamic {
+  background: var(--background);
+}
+
+::selection {
+  background: rgb(148 163 184 / 0.25);
+}
+
+/* Smooth scrolling for horizontal project rail */
+html {
+  scroll-behavior: smooth;
+}

@@ -1,0 +1,18 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#1E293B"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="24" fill="url(#bg2)"/>
+  <circle cx="210" cy="170" r="90" fill="#E2E8F0" opacity="0.10"/>
+  <path d="M150 170C160 130 200 110 240 120C280 130 300 170 285 205C270 240 230 255 195 242C160 229 140 205 150 170Z" fill="#94A3B8" opacity="0.35"/>
+  <rect x="350" y="90" width="240" height="160" rx="22" fill="#E2E8F0" opacity="0.08"/>
+  <path d="M360 110H520" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" opacity="0.55"/>
+  <path d="M360 140H560" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" opacity="0.35"/>
+  <path d="M360 170H500" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" opacity="0.65"/>
+  <path d="M360 200H540" stroke="#94A3B8" stroke-width="8" stroke-linecap="round" opacity="0.45"/>
+  <text x="24" y="52" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas" font-size="20" opacity="0.75">AFTER: THERMAL SEG</text>
+</svg>
