@@ -338,6 +338,7 @@ export default function Home() {
                   <a
                     href="/Swarup_CV_1.pdf"
                     target="_blank"
+                    download="Swarup_GL_CV.pdf"
                     className="inline-flex h-11 items-center justify-center rounded-lg border border-cyan-500/30 bg-cyan-500/10 backdrop-blur-sm px-6 text-sm font-medium text-cyan-300 transition-all hover:bg-cyan-500/20 hover:border-cyan-500/50 gap-2"
                   >
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
