@@ -18,18 +18,6 @@ export const metadata: Metadata = {
   description:
     "Swarup G L — AI Researcher, IoT Engineer, and Full-Stack Developer. Projects, skills, and community work.",
 
-  /* ── Favicon / Tab Icon ─────────────────────────────────── */
-  icons: {
-    // Standard browser tab icon
-    icon: [
-      { url: "/favicon.png", type: "image/png" },
-    ],
-    // iOS home-screen icon (when someone saves site to iPhone)
-    apple: "/favicon.png",
-    // Shortcut icon (older browsers)
-    shortcut: "/favicon.png",
-  },
-
   /* ── Open Graph (link preview on WhatsApp, Telegram, etc.) ─ */
   openGraph: {
     title: "Swarup G L | AI & Systems Portfolio",
