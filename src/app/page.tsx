@@ -42,6 +42,14 @@ type Project = {
 
 const projects: Project[] = [
   {
+    name: "MemoryPalAI",
+    description: "Intelligent Knowledge Workspace & Agentic AI Learning System that autonomously processes documents, creates quizzes, and generates personalized revision notes.",
+    techStack: ["Streamlit", "LangGraph", "Gemini 2.5", "Pinecone", "Python"],
+    keyInnovation: "Autonomous RAG and dynamic quiz evaluation loop",
+    imageSrc: "/images/ghost-eye.svg",
+    repoUrl: "https://memorypalai.onrender.com",
+  },
+  {
     name: "Ghost-Eye",
     description: "A multi-modal object detection system combining thermal, radar, and camera data for navigation in low-visibility/foggy conditions.",
     techStack: ["TensorFlow", "Three.js", "React"],
