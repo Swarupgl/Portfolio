@@ -133,12 +133,22 @@ const experience = [
     certificateUrl: "#"
   },
   {
-    title: "Bosch Competition",
+    title: "Undergraduate Research Assistant - University Connect Program",
     org: "Bosch",
-    period: "2024",
+    period: "Feb 2024 - Apr 2025",
     highlight: false,
     bullets: [
-      "Participated and presented innovative IoT and AI solutions in the competitive technology showcase."
+      "Contributed to the development of Real Time Location Sustem(RTLS) using DWM1000 module."
+    ],
+    certificateUrl: "#"
+  },
+  {
+    title: "Frontend Developer Intern",
+    org: "Internloom",
+    period: "Jan 2025 - Mar 2025",
+    highlight: false,
+    bullets: [
+      "Developed responsive frontend user interfaces for an internship management platform by accurately translating Figma design specifications into functional code"
     ],
     certificateUrl: "#"
   },
