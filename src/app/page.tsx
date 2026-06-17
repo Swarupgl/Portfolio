@@ -138,7 +138,7 @@ const experience = [
     period: "Feb 2024 - Apr 2025",
     highlight: false,
     bullets: [
-      "Contributed to the development of Real Time Location Sustem(RTLS) using DWM1000 module."
+      "Contributed to the development of Real Time Location System(RTLS) using DWM1000 module."
     ],
     certificateUrl: "#"
   },
