@@ -117,7 +117,7 @@ const experience = [
     bullets: [
       "Major in Artificial Intelligence and Data Science",
     ],
-    certificateUrl: "#"
+
   },
   {
     title: "ElectroGeeks Club Coordinator",
@@ -128,7 +128,7 @@ const experience = [
       "Technical workshops on embedded systems, drones, telemetry",
       "Hardware deployment & procurement management"
     ],
-    certificateUrl: "#"
+
   },
   {
     title: "AUTOwn'24 Competition",
@@ -136,9 +136,9 @@ const experience = [
     period: "Nov 2024",
     highlight: false,
     bullets: [
-      "National ADAS project competition",
+      "Participated National ADAS project competition",
     ],
-    certificateUrl: "#"
+    certificateUrl: "/BITS_WILP_AUTOwn'24_E_Certificate_Participation (2).pdf"
   },
   {
     title: "Undergraduate Research Assistant - University Connect Program",
@@ -148,7 +148,7 @@ const experience = [
     bullets: [
       "Contributed to the development of Real Time Location System(RTLS) using DWM1000 module."
     ],
-    certificateUrl: "#"
+    certificateUrl: "/Bosch_certificate (1).pdf"
   },
   {
     title: "Frontend Developer Intern",
@@ -158,7 +158,6 @@ const experience = [
     bullets: [
       "Developed responsive frontend user interfaces for an internship management platform by accurately translating Figma design specifications into functional code"
     ],
-    certificateUrl: "#"
   },
 ];
 
